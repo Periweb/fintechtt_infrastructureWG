@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages for the Fintech TT Infrastructure Working Group 
 
-# Notes
-You can use the [editor on GitHub](https://github.com/Periweb/fintechtt_infrastructureWG/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+# Notes
 Whenever you commit MArkdown files to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
