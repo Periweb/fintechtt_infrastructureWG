@@ -41,30 +41,11 @@ The process of using online platforms/digital platforms to assess borrowers&#39;
 
 Digital bank accounts can be created for underbanked consumers who are unable to access banking services or get approval for credit card or prepaid cards.
 
-| **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-| **Payment Specification**
- | PCI DSSISO 27001ISO 8583PA – DSSSOC2Standards For MasterCard using IP-based or Wireless Communication
- |
- |
- |
-| **Web Servers**
- | SSL/ TLS and firewallOWASP top 10Prevention mechanisms for cross site scriptingImplementation of key pair Public and Private Keys / Cryptographic KeysDDOS PreventionBack UpsNetwork MonitoringAnti Virus Malware ScanningAccess RestrictionUser PermissionsUse of SSH Keys to access servers Measures to Prevent Database InjectionsStrong Passwords (Generated keys)Server and Web application Updates ( especially concerning Security)Disaster Recovery
- |
- |
- |
-| **Hardware for Payment POS Transactions**
- | EMVco Certification
-EMV Module Version 8.1.0
-POI (Point of Interaction) V4
-Approval Class PED (Pin Entry Device)
-Tripe DES (TDES) Master Key encryption – fixed
-DUKPT formatSSL v3 (minimum)
-TLS v1.2 (recommended)
-Tamper Evidence
- |
- |
- |
+|Type|Standards|Description|Certification Level|
+| **Payment Specification** |<ul><li>PCI DSS</li><li>ISO 27001</li><li>ISO 8583</li><li>PA – DSS</li><li>SOC2</li><li>Standards for MasterCard using IP-based or Wireless Communication</li></ul> | | | 
+| **Web Servers** |<ul><li>SSL/ TLS and firewall</li><li>OWASP top 10</li><li>Prevention mechanisms for cross site scripting</li><li>Implementation of key pair Public and Private Keys / Cryptographic Keys</li><li>DDOS Prevention</li><li>Back Ups</li><li>Network Monitoring</li><li>Anti Virus Malware Scanning</li><li>Access Restriction</li><li>User Permissions</li><li>Use of SSH Keys to access servers</li><li>Measures to Prevent Database Injections</li><li>Strong Passwords (Generated keys)</li><li>Server and Web application Updates ( especially concerning Security)</li><li>Disaster Recovery</li></ul>| | | 
+| **Hardware for Payment POS Transactions** | <ul><li>EMVco Certification</li><li>EMV Module Version 8.1.0</li><li>POI (Point of Interaction) V4</li><li>Approval Class PED (Pin Entry Device)</li><li>Tripe DES (TDES) Master Key encryption – fixed</li><li>DUKPT formatSSL v3 (minimum)</li><li>TLS v1.2 (recommended)</li><li>Tamper Evidence</li></ul>| | |  
+
 
 **3) Payments (PayTech) - GL, SM**
 
