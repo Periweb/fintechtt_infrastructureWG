@@ -30,39 +30,14 @@ Measures that should be taken into consideration for any start-up branching in t
 | **Web Servers** |<ul><li>SSL/ TLS and firewall</li><li>OWASP top 10</li><li>Prevention mechanisms for cross site scripting</li><li>Implementation of key pair Public and Private Keys / Cryptographic Keys</li><li>DDOS Prevention</li><li>Back Ups</li><li>Network Monitoring</li><li>Anti Virus Malware Scanning</li><li>Access Restriction</li><li>User Permissions</li><li>Use of SSH Keys to access servers</li><li>Measures to Prevent Database Injections</li><li>Strong Passwords (Generated keys)</li><li>Server and Web application Updates ( especially concerning Security)</li><li>Disaster Recovery</li></ul>|
 | **Hardware for Payment POS Transactions** | <ul><li>EMVco Certification</li><li>EMV Module Version 8.1.0</li><li>POI (Point of Interaction) V4</li><li>Approval Class PED (Pin Entry Device)</li><li>Tripe DES (TDES) Master Key encryption – fixed</li><li>DUKPT formatSSL v3 (minimum)</li><li>TLS v1.2 (recommended)</li><li>Tamper Evidence</li></ul>|
 
-**1) Lending (Lend Tech) - CP, TC**
+## 1) Lending (Lend Tech) - CP, TC
 
 The process of using online platforms/digital platforms to assess borrowers&#39; credit worthiness quickly based on the information submitted online and automate the underwriting process.
 
-| **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+|Type|Standards|Description|Certification Level|
+|---|---|---|---|
 
-**2) Consumer Banking (Bank Tech) - CP, SF,**
+## 2) Consumer Banking (Bank Tech) - CP, SF
 
 Digital bank accounts can be created for underbanked consumers who are unable to access banking services or get approval for credit card or prepaid cards.
 
