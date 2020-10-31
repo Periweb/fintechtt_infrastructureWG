@@ -1,11 +1,11 @@
-**Prepared for FinTech Infrastructure Working Group**
+# Prepared for FinTech Infrastructure Working Group**
 
 **COMMENTARY**
 
 - Should we harmonize with the &#39;NICE&#39; Framework (US standards)?
 - This can underpin the UK standards, as the latter are compact.
 
-**Fintech Markets**
+# Fintech Markets
 
 Based on the nature of sensitivity of data being passed among users, standards and best practices are recommended per category.
 
