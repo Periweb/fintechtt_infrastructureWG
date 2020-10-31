@@ -1,4 +1,4 @@
-# Prepared for FinTech Infrastructure Working Group**
+# Prepared for FinTech Infrastructure Working Group
 **COMMENTARY**
 
 - Should we harmonize with the &#39;NICE&#39; Framework (US standards)?
