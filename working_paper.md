@@ -1,5 +1,4 @@
 # Prepared for FinTech Infrastructure Working Group**
-
 **COMMENTARY**
 
 - Should we harmonize with the &#39;NICE&#39; Framework (US standards)?
@@ -11,31 +10,19 @@ Based on the nature of sensitivity of data being passed among users, standards a
 
 Measures that should be taken into consideration for any start-up branching in this space are:
 
-1) Creation of Continuity | Contingency Plan
-
-2) Layers of Security in Each Segment/Layer
-
-3) Storage and Back Up of Data
-
-4) Data Captured and Usage
-
-5) Protection of Data
-
-6) Defining External / Third- Party Integration
-
-7) Risk Management and Planning
-
-8) Compliance
-
-9) Terms and Conditions
-
-10) Discussion Between Your Start Up and Network Provider | Telecommunications
-
-11) Documentation
-
-12) Data Handling in open networks (if applicable)
-
-13) Cyber security
+1. Creation of Continuity | Contingency Plan
+2. Layers of Security in Each Segment/Layer
+3. Storage and Back Up of Data
+4. Data Captured and Usage
+5. Protection of Data
+6. Defining External / Third- Party Integration
+7. Risk Management and Planning
+8. Compliance
+9. Terms and Conditions
+10. Discussion Between Your Start Up and Network Provider | Telecommunications
+11. Documentation
+12. Data Handling in open networks (if applicable)
+13. Cyber security
 
 | **Type** | **Best Practice / Standards** |
 | --- | --- |
