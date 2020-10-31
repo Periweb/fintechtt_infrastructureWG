@@ -26,7 +26,7 @@ Measures that should be taken into consideration for any start-up branching in t
 
 | **Type** | **Best Practice / Standards** |
 | --- | --- |
-| **Payment Specification** | - PCI DSS - ISO 27001ISO 8583PA – DSSSOC2Standards for MasterCard using IP-based or Wireless Communication |
+| **Payment Specification** |<ul><li>PCI DSS</li><li>ISO 27001</li><li>ISO 8583</li><li>PA – DSS</li><li>SOC2</li><li>Standards for MasterCard using IP-based or Wireless Communication</li></ul> |
 | **Web Servers** | SSL/ TLS and firewallOWASP top 10Prevention mechanisms for cross site scriptingImplementation of key pair Public and Private Keys / Cryptographic KeysDDOS PreventionBack UpsNetwork MonitoringAnti Virus Malware ScanningAccess RestrictionUser PermissionsUse of SSH Keys to access servers Measures to Prevent Database InjectionsStrong Passwords (Generated keys)Server and Web application Updates ( especially concerning Security)Disaster Recovery |
 | **Hardware for Payment POS Transactions** | EMVco Certification
 EMV Module Version 8.1.0
