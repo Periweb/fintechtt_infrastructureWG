@@ -45,8 +45,7 @@ Digital bank accounts can be created for underbanked consumers who are unable to
 |<ul><li>PCI DSS</li><li>ISO 27001</li><li>ISO 8583</li><li>PA – DSS</li><li>SOC2</li><li>Standards for MasterCard using IP-based or Wireless Communication</li></ul>|||||
 
 
-
-**3) Payments (PayTech) - GL, SM**
+## 3) Payments (PayTech) - GL, SM
 
 The management of assets and processing of various payment transactions is made secure and easy.Types of technology being developed for consumers to facilitate better digital connectivity and consumer identity protection are:
 
