@@ -41,8 +41,8 @@ The process of using online platforms/digital platforms to assess borrowers&#39;
 
 Digital bank accounts can be created for underbanked consumers who are unable to access banking services or get approval for credit card or prepaid cards.
 
-|Type|Standards|Description|Certification Level|
-| **Payment Specification** |<ul><li>PCI DSS</li><li>ISO 27001</li><li>ISO 8583</li><li>PA – DSS</li><li>SOC2</li><li>Standards for MasterCard using IP-based or Wireless Communication</li></ul>| | | 
+|Type|Standards|Description|Certification Level| **Payment Specification** |
+<ul><li>PCI DSS</li><li>ISO 27001</li><li>ISO 8583</li><li>PA – DSS</li><li>SOC2</li><li>Standards for MasterCard using IP-based or Wireless Communication</li></ul>| | | 
 
 
 
