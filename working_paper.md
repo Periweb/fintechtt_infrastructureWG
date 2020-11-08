@@ -42,9 +42,7 @@ The process of using online platforms/digital platforms to assess borrowers&#39;
 Digital bank accounts can be created for underbanked consumers who are unable to access banking services or get approval for credit card or prepaid cards.
 
 |Type|Standards|Description|Certification Level|Payment Specification|
-
-
-
+|---|---|---|---|---|
 
 ## 3) Payments (PayTech) - GL, SM
 
