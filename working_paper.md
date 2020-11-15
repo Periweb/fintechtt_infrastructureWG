@@ -53,6 +53,7 @@ a) Wearable technology
 b) Smart Technology
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
+|---|---|---|---|
 | **Message Specification** | ISO 8583 |  |  |
 
 ## 4) Mobile Payment GL, SM
