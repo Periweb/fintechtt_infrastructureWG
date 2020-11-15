@@ -69,27 +69,7 @@ Mobile wallets and other integrated payment solutions are being used widely by b
 This includes everything from online policy handling, data protection and providing tailored insurances.
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+
 
 **6) International Money Transfer - AZ**
 
