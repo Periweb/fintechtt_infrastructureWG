@@ -53,22 +53,9 @@ a) Wearable technology
 b) Smart Technology
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-| **Message Specification** | ISO 8583 |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+| **Message Specification** | ISO 8583 |  |  |
 
-**4) Mobile Payment GL, SM**
+## 4) Mobile Payment GL, SM
 
 Mobile wallets and other integrated payment solutions are being used widely by business models and individuals to facilitate and conduct payment operations through the use of technology.
 
