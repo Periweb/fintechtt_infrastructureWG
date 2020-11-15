@@ -71,59 +71,20 @@ This includes everything from online policy handling, data protection and provid
 | **Type** | **Standards** | **Description** | **Certification Level** |
 |---|---|---|---|
 
-**6) International Money Transfer - AZ**
+## 6) International Money Transfer - AZ
 
 This area makes the whole process more streamlined, secure, faster, and easier for the consumers and business models.Sending money overseas through the use of Peer-to-Peer networks helps in reducing fees incurred normally by traditional means.
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+|---|---|---|---|
+
 
 **7) Personal Finance (Wealth Tech) - MD**
 
 This area offers advice and help with budgeting. Consumers can get personal finance advice anywhere, at any time. Some consumers create budgets, while others help consumers save or plan and give retirement or investment advice.WealthTech aids the simplification of the investment process, whereby investors can manage their investment portfolios.
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+|---|---|---|---|
 
 **8) Equity Financing – CF, MD (e.g Start Engine)**
 
