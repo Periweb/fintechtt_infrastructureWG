@@ -63,20 +63,8 @@ Mobile wallets and other integrated payment solutions are being used widely by b
 | **Type** | **Standards** | **Description** | **Certification Level** |
 | --- | --- | --- | --- |
 | **Message Specification** | ISO 8583 |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
 
-**5) Insurance (Insur Tech) - GL**
+## 5) Insurance (Insur Tech) - GL
 
 This includes everything from online policy handling, data protection and providing tailored insurances.
 
