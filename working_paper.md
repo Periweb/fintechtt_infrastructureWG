@@ -79,20 +79,20 @@ This area makes the whole process more streamlined, secure, faster, and easier f
 |---|---|---|---|
 
 
-**7) Personal Finance (Wealth Tech) - MD**
+## 7) Personal Finance (Wealth Tech) - MD
 
 This area offers advice and help with budgeting. Consumers can get personal finance advice anywhere, at any time. Some consumers create budgets, while others help consumers save or plan and give retirement or investment advice.WealthTech aids the simplification of the investment process, whereby investors can manage their investment portfolios.
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
 |---|---|---|---|
 
-**8) Equity Financing – CF, MD (e.g Start Engine)**
+## 8) Equity Financing – CF, MD (e.g Start Engine)
 
 This area makes it easy for businesses to raise money. Some companies work to connect accredited investors with vetted startups. Others use a crowdfunding model and let anyone invest in new businesses.These companies simplify the fundraising process for businesses. Virtual fundraising is also easier for investors, since everything can be done online.
 
 | **Type** | **Standards/ Best Practice** | **Description** | **Certification Level** |
 | --- | --- | --- | --- |
-| **Third Party Usage** | Analyze :
+| **Third Party Usage** | 
 1. Data security
 2. Privacy Compliance
 3. Cyber Insurance
@@ -108,71 +108,31 @@ This area makes it easy for businesses to raise money. Some companies work to co
  |
  |
 
-**9) Trading (Trade Tech) - GL, TC, CP**
+## 9) Trading (Trade Tech) - GL, TC, CP
 
 This area encompasses the application of information technology in an effort to reduce the information costs of international trade, facilitate trade finance, and increase transparency in trading operations for business models and consumers alike. International coordination is highly needed for the full potential and benefits to be realized.
 
 TradeTech is used to facilitate and support cross-border trading through the use of IT systems in supply chain finance and asset distribution platforms.
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+|---|---|---|---|
 
-**10) Accounting - BD**
+## 10) Accounting - BD
 
 The use of technology in this area of finances has helped improve the access and analysis of data through the use of software and tools.
 
 The time accountants&#39; need to process operations like invoice management, cash flow forecasting, and other accounting services has been reduced through the use of financial technology and software.
 
 | **Type** | **Standards** | **Description** | **Certification Level** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+|---|---|---|---|
 
-**11) RegTech** - LK, SF
+## 11) RegTech - LK, SF
 
 RegTech is used to standardize and facilitate transparent regulatory processes that automate the whole compliance system. Regulatory reporting, risk management, transaction monitoring, and compliance.
 
 - this area seeks to help financial service firms meet industry compliance rules, especially those covering Anti-Money Laundering and Know Your Customer protocols which fight fraud.RegTech can create sustainable and scalable ways for institutions to conduct a variety of compliance functions:
 
-      - Automation of customer onboarding
+   - Automation of customer onboarding
   - Customer identity verification and management(KYC)
   - Real-time transaction monitoring
   - Improved fraud control
